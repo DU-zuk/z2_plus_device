@@ -36,7 +36,7 @@ AUDIO_FEATURE_ENABLED_SPKR_PROTECTION := true
 TARGET_PROVIDES_LIBLIGHT := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := z2_plus_defconfig
+TARGET_KERNEL_CONFIG := AR_Beast_z2_plus_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
